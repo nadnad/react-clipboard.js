@@ -28,7 +28,7 @@
     "react": ">=0.13.0"
   },
   "dependencies": {
-    "clipboard": "^1.4.0"
+    "clipboard": "^1.6.0"
   },
   "devDependencies": {
     "babel-core": "^5.8.23",
